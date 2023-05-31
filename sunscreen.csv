@@ -1,0 +1,82 @@
+Timestamp,Jenis Kelamin,Usia,Rata-rata durasi aktivitas di luar dalam sehari,SPF sunscreen yang kamu pakai,Jenis Kulit,Brand sunscreen yang kamu pakai,Tekstur sunscreen yang kamu pakai,Jenis sunscreen,Angkatan
+24/05/2023 11:47:04,Perempuan,20,240,30,Berminyak,Azarine,Gel,Chemical,2021
+24/05/2023 12:02:13,Perempuan,20,300,30,Normal,Wardah,Gel,Chemical,2021
+24/05/2023 14:26:51,Perempuan,18,600,30,Kombinasi,emina,Lotion,Chemical,2022
+24/05/2023 16:37:32,Laki-Laki,19,480,30,Berminyak,Wardah,Gel,Chemical,2022
+24/05/2023 21:48:15,Laki-Laki,19,600,30,Normal,Wardah,Cream,Chemical,2022
+25/05/2023 16:56:00,Perempuan,20,150,30,Kombinasi,Skin Aqua,Lotion,Chemical,2021
+27/05/2023 19:01:11,Perempuan,19,480,30,Berminyak,skin aqua,Cream,Physical,2022
+25/05/2023 16:07:32,Perempuan,19,180,35,Kombinasi,azarine,Gel,Chemical,2021
+25/05/2023 16:34:19,Perempuan,20,60,35,Berminyak,Azarine,Gel,Chemical,2021
+24/05/2023 11:58:17,Perempuan,19,360,40,Normal,facetology,Lotion,Physical,2022
+24/05/2023 12:00:29,Perempuan,19,480,40,Kombinasi,Implora,Cream,Chemical,2021
+24/05/2023 14:13:47,Perempuan,21,280,40,Kombinasi,implora,Lotion,Physical,2020
+27/05/2023 13:01:46,Perempuan,21,240,40,Kering,"Implora, madame gie",Lotion,Chemical,2021
+27/05/2023 14:19:40,Perempuan,12,420,40,Berminyak,implora,Lotion,Chemical,2022
+24/05/2023 11:46:47,Perempuan,20,360,45,Sensitif,Emina,Cream,Chemical,2021
+24/05/2023 11:48:57,Perempuan,21,420,45,Kombinasi, Azarine,Gel,Chemical,2021
+24/05/2023 11:56:07,Perempuan,18,90,45,Berminyak,Azarine,Gel,Chemical,2021
+24/05/2023 13:11:50,Laki-Laki,19,360,45,Kombinasi,Azarine,Gel,Physical,2022
+24/05/2023 14:10:14,Perempuan,21,40,45,Berminyak,Azarine,Gel,Chemical,2020
+24/05/2023 21:45:12,Perempuan,19,360,45,Berminyak,"Skin Aqua, Labore",Cream,Physical,2022
+25/05/2023 6:52:27,Perempuan,18,450,45,Kombinasi,azarine,Gel,Chemical,2022
+27/05/2023 13:23:48,Perempuan,20,500,45,Kering,Azarine,Gel,Chemical,2021
+24/05/2023 11:42:56,Laki-Laki,21,300,50,Berminyak,illuminare,Lotion,Chemical,2021
+24/05/2023 11:45:55,Perempuan,19,90,50,Berminyak,Azarine,Lotion,Chemical,2021
+24/05/2023 11:55:29,Perempuan,19,360,50,Berminyak,Wardah,Lotion,Chemical,2021
+24/05/2023 11:57:19,Laki-Laki,19,30,50,Normal,Biore,Spray,Physical,2021
+24/05/2023 11:58:55,Perempuan,19,420,50,Kombinasi,Skin Aqua,Lotion,Physical,2022
+24/05/2023 11:58:57,Perempuan,20,120,50,Kering,Loreal,Lotion,Chemical,2021
+24/05/2023 12:01:00,Perempuan,20,480,50,Kering,3w clinic,Lotion,Physical,2021
+24/05/2023 12:01:10,Perempuan,18,300,50,Normal,Skin Aqua,Lotion,Physical,2022
+24/05/2023 12:01:14,Perempuan,19,120,50,Kombinasi,Skin Aqua,Lotion,Physical,2022
+24/05/2023 12:01:36,Laki-Laki,20,10,50,Berminyak,skin aqua,Gel,Chemical,2021
+24/05/2023 12:04:51,Perempuan,18,400,50,Sensitif,anessa,Lotion,Physical,2022
+24/05/2023 12:06:13,Perempuan,18,60,50,Kombinasi,"Nivea, banana boat, somethinc",Lotion,Physical,2022
+24/05/2023 12:07:01,Perempuan,18,360,50,Normal,Biore,Lotion,Physical,2022
+24/05/2023 12:08:01,Perempuan,20,43200,50,Kering,Azarine,Lotion,Physical,2021
+24/05/2023 12:12:41,Laki-Laki,19,60,50,Berminyak,Azarine,Lotion,Chemical,2021
+24/05/2023 12:19:10,Perempuan,19,20,50,Kering,Somethinc,Gel,Physical,2021
+24/05/2023 12:45:53,Perempuan,19,180,50,Kombinasi,skin aqua,Lotion,Physical,2021
+24/05/2023 12:53:55,Laki-Laki,20,720,50,Normal,Nivea,Lotion,Chemical,2020
+24/05/2023 13:01:32,Perempuan,19,14,50,Berminyak,Skintific,Spray,Chemical,2021
+24/05/2023 13:29:20,Perempuan,19,360,50,Normal,Skin Aqua,Cream,Physical,2021
+24/05/2023 14:02:52,Perempuan,21,360,50,Kombinasi,Skin Aqua,Cream,Physical,2020
+24/05/2023 14:09:51,Perempuan,20,300,50,Normal,Skintific,Spray,Chemical,2021
+24/05/2023 14:26:17,Perempuan,20,480,50,Kering,Sunscreen dari dokter kulit,Cream,Chemical,2020
+24/05/2023 15:01:26,Perempuan,19,630,50,Normal,Something,Lotion,Physical,2022
+24/05/2023 15:02:59,Perempuan,18,540,50,Berminyak,Azarine,Gel,Physical,2022
+24/05/2023 15:03:22,Laki-Laki,20,180,50,Berminyak,azarine,Gel,Physical,2020
+24/05/2023 17:03:07,Perempuan,20,200,50,Kombinasi,Hanasui,Gel,Chemical,2021
+24/05/2023 22:11:57,Perempuan,19,180,50,Normal,Skin Aqua,Lotion,Physical,2022
+25/05/2023 16:14:28,Perempuan,20,540,50,Normal,nivea dan azarine,Gel,Chemical,2021
+26/05/2023 1:25:24,Laki-Laki,19,600,50,Kombinasi,Biore,Lotion,Chemical,2021
+27/05/2023 12:55:55,Laki-Laki,19,360,50,Kombinasi,Skin aqua,Lotion,Chemical,2021
+27/05/2023 13:04:42,Perempuan,21,360,50,Normal,Azarine,Spray,Chemical,2020
+27/05/2023 13:06:41,Perempuan,20,300,50,Berminyak,Loreal,Lotion,Chemical,2020
+27/05/2023 14:50:57,Perempuan,20,480,50,Sensitif,480 menit,Lotion,Physical,2021
+25/05/2023 16:27:37,Perempuan,18,30,90,Berminyak,Wardah,Gel,Chemical,2021
+28/05/2023 13:03:09,Perempuan,20,600,45,Berminyak,Azarine,Gel,Chemical,2021
+28/05/2023 16:24:05,Perempuan,19,240,50,Normal,skin aqua,Cream,Physical,2021
+28/05/2023 17:58:55,Perempuan,19,240,45,Kombinasi,Azarine,Gel,Chemical,2021
+28/05/2023 18:23:56,Perempuan,20,120,50,Kering,Skin Aqua,Cream,Physical,2021
+28/05/2023 20:09:50,Perempuan,19,300,30,Normal,wardah,Gel,Chemical,2021
+28/05/2023 20:21:10,Perempuan,20,200,45,Kombinasi,Azarine ,Gel,Chemical,2021
+28/05/2023 20:50:05,Laki-Laki,20,240,45,Normal,Azarine,Gel,Chemical,2021
+28/05/2023 20:51:27,Laki-Laki,21,180,50,Berminyak,Azarine,Gel,Chemical,2021
+28/05/2023 21:51:38,Perempuan,20,300,45,Berminyak,Carasun,Lotion,Chemical,2021
+29/05/2023 9:46:19,Perempuan,19,60,45,Berminyak,Skin Aqua,Lotion,Physical,2021
+29/05/2023 9:58:07,Perempuan,21,480,50,Kombinasi,Azarine,Gel,Chemical,2020
+30/05/2023 7:54:31,Perempuan,18,420,45,Kombinasi,azarine,Gel,Chemical,2022
+30/05/2023 15:06:30,Perempuan,20,45,50,Kombinasi,skin aqua,Cream,Physical,2020
+30/05/2023 15:13:58,Laki-Laki,20,1440,50,Berminyak,skin aqua,Cream,Physical,2020
+30/05/2023 15:36:45,Perempuan,18,480,50,Normal,Avoskin,Lotion,Physical,2022
+30/05/2023 16:04:37,Perempuan,19,240,30,Sensitif,Emina,Cream,Chemical,2022
+30/05/2023 16:06:38,Perempuan,18,10,50,Normal,biore,Lotion,Physical,2022
+30/05/2023 17:45:46,Perempuan,19,120,50,Kering,nivea,Lotion,Chemical,2021
+30/05/2023 17:48:07,Perempuan,21,150,50,Sensitif,somethinc,Gel,Physical,2020
+30/05/2023 18:16:25,Perempuan,20,100,45,Kombinasi,azarine,Gel,Chemical,2021
+30/05/2023 19:54:57,Laki-Laki,20,360,50,Normal,Parasol,Lotion,Physical,2020
+31/05/2023 13:02:34,Perempuan,19,600,50,Sensitif,Azarine,Lotion,Chemical,2021
+31/05/2023 13:06:39,Perempuan,19,240,30,Kombinasi,Metamorf,Cream,Physical,2021
+31/05/2023 13:22:30,Perempuan,20,540,50,Berminyak,The originote,Lotion,Physical,2021
